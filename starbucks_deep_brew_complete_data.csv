@@ -1,0 +1,11 @@
+customer_id,product,amount,temperature,age,member_tier,plant_milk,coffee_preference,category,cold_drink,price
+101,Cold Brew,250,32,21,Gold,1,Cold Brew,Coffee,1,250
+101,Blueberry Muffin,180,32,21,Gold,1,Cold Brew,Bakery,0,180
+102,Latte,220,25,25,Silver,0,Latte,Coffee,0,220
+102,Croissant,160,25,25,Silver,0,Latte,Bakery,0,160
+103,Iced Matcha,240,30,32,Gold,1,Iced Matcha,Tea,1,240
+103,Cake Pop,120,30,32,Gold,1,Iced Matcha,Bakery,0,120
+104,Cappuccino,210,22,28,Bronze,0,Cappuccino,Coffee,0,210
+105,Cold Brew,250,34,35,Gold,1,Cold Brew,Coffee,1,250
+105,Brownie,150,34,35,Gold,1,Cold Brew,Bakery,0,150
+105,Cold Brew,250,34,35,Gold,1,Cold Brew,Coffee,1,250
